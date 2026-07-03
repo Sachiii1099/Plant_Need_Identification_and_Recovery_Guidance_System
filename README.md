@@ -108,9 +108,9 @@ Healthy range:
 
 Extended periods outside this range reduce the health score.
 
----
 
-## 🧠 Health Scoring System
+
+## Health Scoring System
 
 Each parameter receives an individual score:
 
@@ -128,7 +128,7 @@ Score Range: 0 – 100
 
 ---
 
-## 🌿 Plant Status Classification
+##  Plant Status Classification
 
 | Score    | Status    |
 | -------- | --------- |
@@ -145,7 +145,7 @@ Score Range: 0 – 100
 
 ---
 
-## 📟 OLED Display Output
+##  OLED Display Output
 
 The OLED display shows:
 
@@ -167,7 +167,7 @@ STATUS: HEALTHY
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 ### Phase 2.5
 
@@ -186,7 +186,7 @@ STATUS: HEALTHY
 
 ---
 
-## 📈 Innovation
+##  Innovation
 
 The key innovation of this project is that it attempts to model **plant response over time rather than reacting to instant sensor values.**
 
@@ -198,7 +198,7 @@ This makes the system:
 
 ---
 
-## 🛠️ Software & Libraries Used
+##  Software & Libraries Used
 
 * Arduino IDE
 * ESP32 Board Package
@@ -209,23 +209,23 @@ This makes the system:
 
 ---
 
-## 📷 Demonstration
+##  Demonstration
 
 The prototype demonstrates:
 
-✅ Real-time environmental monitoring
+Real-time environmental monitoring
 
-✅ OLED-based visualization
+OLED-based visualization
 
-✅ Dynamic plant health scoring
+Dynamic plant health scoring
 
-✅ Time-aware degradation and recovery logic
+Time-aware degradation and recovery logic
 
-✅ Multi-sensor integration using ESP32
+Multi-sensor integration using ESP32
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sachidanand Mandal**
 
